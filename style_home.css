@@ -1,0 +1,27 @@
+#bed_room {
+    width: 500;
+    border-radius: 100px;
+    margin-top: 100;
+}
+
+#bottle {
+    width: 500;
+    border-radius: 100px;
+    margin-top: 50;
+}
+
+#fruit {
+    width: 500;
+    border-radius: 100px;
+    margin-top: 50;
+}
+
+#ac_curtain {
+    width: 500;
+    border-radius: 100px;
+    margin-top: 50;
+}
+
+body {
+    background-color:aquamarine;
+}

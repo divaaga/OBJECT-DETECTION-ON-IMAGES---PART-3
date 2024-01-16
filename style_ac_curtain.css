@@ -1,0 +1,14 @@
+#object_detection {
+    width: 100%;
+}
+
+#back {
+    float: right;
+    margin: 10px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 20px;
+}
